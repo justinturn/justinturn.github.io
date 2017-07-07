@@ -1,8 +1,6 @@
 ## Justin M. Turner
 ## 
 
-![Headshot](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgiAAAAJDgyZDFlZTRjLTg0M2ItNDdmNy1hOWJmLTU2NDc5ZmE0OTcyZQ.jpg
-)
 Format: ![Alt Text](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgiAAAAJDgyZDFlZTRjLTg0M2ItNDdmNy1hOWJmLTU2NDc5ZmE0OTcyZQ.jpg
 )
 
