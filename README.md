@@ -56,7 +56,4 @@ If [Justin] = 'motivated' then (post)
 
 [Visit my LinkedIn page](https://www.linkedin.com/in/justin-turner-b9012966/)  
 
-<a class="twitter-timeline"
-  href="https://twitter.com/turnerjustinm">
-Tweets by @turnerjustinm
-</a>
+<a class="twitter-timeline" href="https://twitter.com/turnerjustinm">Tweets by turnerjustinm</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
