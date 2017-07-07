@@ -35,13 +35,13 @@
 
 ### Music on Repeat
 
-*Brand New* Ben Rector , *Mess me Up* Gary Allan , *God That Saves* Iron Bell Music , *Castle on the Hill* Ed Sheeran , *Outta Style* Aaron Waston
+*Brand New* - Ben Rector , *Mess me Up* - Gary Allan , *God That Saves* - Iron Bell Music , *Castle on the Hill* - Ed Sheeran , *Outta Style* - Aaron Waston
 
 
 
 ### Code
 
-Perhaps I'll post some code below in the future...
+Stayed tuned for some code to the projects I work on in my spare time...
 ```markdown
 If [Justin] = 'motivated' then (post)
 
@@ -52,7 +52,6 @@ If [Justin] = 'motivated' then (post)
 
 Follow me on Twitter [@turnerjustinm](https://twitter.com/turnerjustinm) (Fair warning, I mostly tweet about Whataburger and Economics)
 
-Visit my LinkedIn page(https://www.linkedin.com/in/justin-turner-b9012966/)
+[Visit my LinkedIn page](https://www.linkedin.com/in/justin-turner-b9012966/)
 
 Instagram [@justinturn](https://www.instagram.com/justinturn/)
-###
