@@ -48,10 +48,8 @@ If [Justin] = 'motivated' then (post)
 -JT
 ```
 
-### Contact Me
+### Connect
 
-Follow me on Twitter [@turnerjustinm](https://twitter.com/turnerjustinm) (Fair warning, I mostly tweet about Whataburger and Economics)
-
+[Instgram: @justinturn](https://www.instagram.com/justinturn/)
+[Twitter: @turnerjustinm](https://twitter.com/turnerjustinm)
 [Visit my LinkedIn page](https://www.linkedin.com/in/justin-turner-b9012966/)
-
-Instagram [@justinturn](https://www.instagram.com/justinturn/)
