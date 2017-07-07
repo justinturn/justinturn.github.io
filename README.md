@@ -1,20 +1,20 @@
 <!-- https://guides.github.com/features/mastering-markdown/ for markdown guide --> 
 
 ## Justin M. Turner
-![Alt Text](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgiAAAAJDgyZDFlZTRjLTg0M2ItNDdmNy1hOWJmLTU2NDc5ZmE0OTcyZQ.jpg
-)
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgiAAAAJDgyZDFlZTRjLTg0M2ItNDdmNy1hOWJmLTU2NDc5ZmE0OTcyZQ.jpg" alt="my-image" class="img-circle" />
 
-### Edmond, Oklahoma :round_pushpin:
-### USA :us:
-### justinturn@gmail.com :envelope:
+
+### :round_pushpin: Edmond, Oklahoma 
+### :us: USA 
+### :envelope: justinturn@gmail.com 
 
 
 ### About Me
 
 * Twenty Four. Oklahoman. 
-* MS in Agricultural Economics from Oklahoma State University. :mortar_board: 
+* :mortar_board: MS in Agricultural Economics from Oklahoma State University. :corn:
 * Dabble in R, Python, SQL, and SAS. 
-* Dayjob is spent at a fantastic organization developing Tableau Visuals, some SQL and R for data loading and manipulation, and designing data architecture. 
+* :office: Dayjob is spent at a fantastic organization developing Tableau Visuals, some SQL and R for data loading and manipulation, and designing data architecture. 
 * Prefer numbers to words. 
 * Dream job = Rancher. 
 
