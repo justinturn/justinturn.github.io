@@ -1,7 +1,7 @@
-## Justin M. Turner
-## 
+<!-- https://guides.github.com/features/mastering-markdown/ for markdown guide --> 
 
-Format: ![Alt Text](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgiAAAAJDgyZDFlZTRjLTg0M2ItNDdmNy1hOWJmLTU2NDc5ZmE0OTcyZQ.jpg
+## Justin M. Turner
+![Alt Text](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgiAAAAJDgyZDFlZTRjLTg0M2ItNDdmNy1hOWJmLTU2NDc5ZmE0OTcyZQ.jpg
 )
 
 ### Edmond, Oklahoma
