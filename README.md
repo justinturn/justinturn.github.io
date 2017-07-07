@@ -50,6 +50,8 @@ If [Justin] = 'motivated' then (post)
 
 ### Connect
 
-[Instgram: @justinturn](https://www.instagram.com/justinturn/)
+[Instagram: @justinturn](https://www.instagram.com/justinturn/)
+
 [Twitter: @turnerjustinm](https://twitter.com/turnerjustinm)
+
 [Visit my LinkedIn page](https://www.linkedin.com/in/justin-turner-b9012966/)
