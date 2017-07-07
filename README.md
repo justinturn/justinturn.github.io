@@ -14,6 +14,7 @@
 * Twenty Four. Oklahoman. 
 * MS in Agricultural Economics from Oklahoma State University. :mortar_board:
 * Dabble in R, Python, SQL, and SAS. 
+* Various Regression Models, Neural Nets, Forecasting Models, etc.
 * Dayjob is spent at a fantastic organization developing Tableau Visuals, some SQL and R for data loading and manipulation, and designing data architecture. :office:
 * Prefer numbers to words. 
 * Dream job = Rancher. 
@@ -31,6 +32,10 @@
 * YouVersion Bible App
 * Bloomberg
 * WSJ
+
+### Music on Repeat
+
+*Brand New* Ben Rector , *Mess me Up* Gary Allan , *God That Saves* Iron Bell Music , *Castle on the Hill* Ed Sheeran , *Outta Style* Aaron Waston
 
 
 
