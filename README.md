@@ -1,6 +1,6 @@
 ## Justin M. Turner
 ### Edmond, Oklahoma
-### [Email Me] (justinturn@gmail.com)
+### '[Email Me] (justinturn@gmail.com)'
 
 
 ### About Me
