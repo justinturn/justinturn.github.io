@@ -1,8 +1,15 @@
 ## Justin M. Turner
+### Edmond, Oklahoma
+### (justinturn@gmail.com)
 
-You can use the [editor on GitHub](https://github.com/justinturn/justinturn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
+
+Twenty Four. Oklahoman. MS in Agricultural Economics from Oklahoma State University. 
+Dabble in programming. Prefer numbers to words. Dream job = Rancher. 
+
+
+
 
 ### Code
 
@@ -15,11 +22,6 @@ space.
 
 -JT
 ```
-
-
-### About Me
-
-24. Oklahoman. MS in Agricultural Economics.
 
 ### Contact Me
 
