@@ -1,12 +1,22 @@
 ## Justin M. Turner
+## 
+
+![Headshot](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgiAAAAJDgyZDFlZTRjLTg0M2ItNDdmNy1hOWJmLTU2NDc5ZmE0OTcyZQ.jpg
+)
+Format: ![Alt Text](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgiAAAAJDgyZDFlZTRjLTg0M2ItNDdmNy1hOWJmLTU2NDc5ZmE0OTcyZQ.jpg
+)
+
 ### Edmond, Oklahoma
-### '[Email Me] (justinturn@gmail.com)'
+### justinturn@gmail.com
 
 
 ### About Me
 
 Twenty Four. Oklahoman. MS in Agricultural Economics from Oklahoma State University. 
-Dabble in programming. Prefer numbers to words. Dream job = Rancher. 
+Dabble in R, Python, and SAS. 
+Dayjob is spent at a great organization developing Tableau Visuals and designing data architecture. 
+Prefer numbers to words. 
+Dream job = Rancher. 
 
 
 
