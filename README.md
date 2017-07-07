@@ -5,14 +5,15 @@
 )
 
 ### Edmond, Oklahoma
-### justinturn@gmail.com
+### justinturn@gmail.com :envelope:
 
 
 ### About Me
 
-Twenty Four. Oklahoman. MS in Agricultural Economics from Oklahoma State University. 
-Dabble in R, Python, and SAS. 
-Dayjob is spent at a great organization developing Tableau Visuals and designing data architecture. 
+Twenty Four. Oklahoman. 
+MS in Agricultural Economics from Oklahoma State University. :mortar_board:
+Dabble in R, Python, SQL, and SAS. 
+Dayjob is spent at a fantastic organization developing Tableau Visuals, some SQL and R for data loading and manipulation, and designing data architecture. 
 Prefer numbers to words. 
 Dream job = Rancher. 
 
@@ -35,5 +36,6 @@ space.
 
 Follow me on Twitter [@turnerjustinm](https://twitter.com/turnerjustinm). (Fair warning, I mostly tweet about Whataburger and Economics)
 
+[Visit my LinkedIn page] https://www.linkedin.com/in/justin-turner-b9012966/
 
 ### You're Done.
