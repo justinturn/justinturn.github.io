@@ -4,18 +4,19 @@
 ![Alt Text](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgiAAAAJDgyZDFlZTRjLTg0M2ItNDdmNy1hOWJmLTU2NDc5ZmE0OTcyZQ.jpg
 )
 
-### Edmond, Oklahoma
+### Edmond, Oklahoma :round_pushpin:
+### USA :us:
 ### justinturn@gmail.com :envelope:
 
 
 ### About Me
 
-Twenty Four. Oklahoman. 
-MS in Agricultural Economics from Oklahoma State University. :mortar_board:
-Dabble in R, Python, SQL, and SAS. 
-Dayjob is spent at a fantastic organization developing Tableau Visuals, some SQL and R for data loading and manipulation, and designing data architecture. 
-Prefer numbers to words. 
-Dream job = Rancher. 
+1. Twenty Four. Oklahoman. 
+1. MS in Agricultural Economics from Oklahoma State University. :mortar_board: 
+1. Dabble in R, Python, SQL, and SAS. 
+1. Dayjob is spent at a fantastic organization developing Tableau Visuals, some SQL and R for data loading and 1. manipulation, and designing data architecture. 
+1. Prefer numbers to words. 
+1. Dream job = Rancher. 
 
 
 
