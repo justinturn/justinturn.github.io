@@ -11,12 +11,12 @@
 
 ### About Me
 
-1. Twenty Four. Oklahoman. 
-1. MS in Agricultural Economics from Oklahoma State University. :mortar_board: 
-1. Dabble in R, Python, SQL, and SAS. 
-1. Dayjob is spent at a fantastic organization developing Tableau Visuals, some SQL and R for data loading and 1. manipulation, and designing data architecture. 
-1. Prefer numbers to words. 
-1. Dream job = Rancher. 
+* Twenty Four. Oklahoman. 
+* MS in Agricultural Economics from Oklahoma State University. :mortar_board: 
+* Dabble in R, Python, SQL, and SAS. 
+* Dayjob is spent at a fantastic organization developing Tableau Visuals, some SQL and R for data loading and manipulation, and designing data architecture. 
+* Prefer numbers to words. 
+* Dream job = Rancher. 
 
 
 
@@ -37,6 +37,6 @@ space.
 
 Follow me on Twitter [@turnerjustinm](https://twitter.com/turnerjustinm). (Fair warning, I mostly tweet about Whataburger and Economics)
 
-[Visit my LinkedIn page] https://www.linkedin.com/in/justin-turner-b9012966/
+Visit my LinkedIn page https://www.linkedin.com/in/justin-turner-b9012966/
 
 ### You're Done.
