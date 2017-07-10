@@ -1,8 +1,7 @@
 <!-- https://guides.github.com/features/mastering-markdown/ for markdown guide --> 
 
 ## Justin M. Turner
-<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgiAAAAJDgyZDFlZTRjLTg0M2ItNDdmNy1hOWJmLTU2NDc5ZmE0OTcyZQ.jpg" alt="my-image" class="img-circle" />
-
+![](justinturn.github.io/headshot.png)
 
 ### :round_pushpin: Edmond, Oklahoma 
 ### :us: USA 
