@@ -20,7 +20,7 @@
 
 ### About Me
 
-* Twenty Four. Oklahoman. 
+* Twenty Five. Oklahoman. 
 * MS in Agricultural Economics from Oklahoma State University. :mortar_board:
 * Dabble in R, Python, SQL, and SAS. 
 * Various Regression Models, Neural Nets, Forecasting Models, etc.
@@ -42,20 +42,10 @@
 * Bloomberg
 * WSJ
 
-### Music on Repeat
-
-*Brand New* - Ben Rector , *Mess me Up* - Gary Allan , *God That Saves* - Iron Bell Music , *Castle on the Hill* - Ed Sheeran , *Outta Style* - Aaron Waston
-
-
-
 ### Code
 
 Stayed tuned for some code to the projects I work on in my spare time...
-```markdown
-If [Justin] = 'motivated' then (post)
-
 -JT
-```
 
 ### Connect
 
