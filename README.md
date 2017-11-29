@@ -1,4 +1,14 @@
 <!-- https://guides.github.com/features/mastering-markdown/ for markdown guide --> 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110464159-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110464159-1');
+</script>
+
 
 ## Justin M. Turner
 ![](justinturn.github.io/headshot.png)
